@@ -1,0 +1,14 @@
+
+[popup_events]
+
+	[popup_events.general]
+		ping_on_request = true
+
+	[popup_events.request_types]
+		guild_invites = true
+		skyblock_trade_requests = true
+		duel_requests = true
+		friend_requests = true
+		guild_party_invites = true
+		party_invites = true
+
