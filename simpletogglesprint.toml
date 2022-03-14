@@ -1,0 +1,50 @@
+
+[general]
+
+	[general.hidden]
+		last_launched_version = "2.2.0"
+
+	[general.options]
+		show_config_on_menu = true
+
+	[general.toggle_sprint]
+		state = true
+		seperate_keybind_for_toggle_sprint = false
+		enabled = true
+
+	[general.toggle_sneak]
+		seperate_keybind_for_toggle_sneak = false
+		state = false
+		enabled = false
+
+[display]
+	display_background = true
+	show_in_guis = true
+	enabled = true
+
+	[display.color]
+		use_chroma_color = false
+		display_color = "255,255,255,255"
+
+	[display.options]
+		scale = 134.4
+		text_shadow = true
+		text_alignment = 0
+
+	[display.position]
+		x = 88.1
+		y = 97.4
+
+	[display.text]
+		sneak_toggle_text = "Necro Client"
+		descending_held_text = "Necro Client"
+		descending_text = "Necro Client"
+		riding_text = "Necro Client"
+		sneaking_text = "Necro Client"
+		sprint_toggle_text = "Necro Client"
+		sprint_held_text = "Necro Client"
+		descending_toggled_text = "Necro Client"
+		sneak_held_text = "Necro Client"
+		flying_text = "Necro Client"
+		sprinting_text = "Necro Client"
+
